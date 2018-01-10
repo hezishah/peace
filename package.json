@@ -1,0 +1,16 @@
+{
+  "name": "inshallah",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "node-remote": ["https://translate.google.co.il/","*://*"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "keysim": "^2.0.0"
+  },
+  "plugin":true
+}
